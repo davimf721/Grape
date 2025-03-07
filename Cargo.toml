@@ -1,8 +1,15 @@
 [package]
-name = "grrs"
+name = "gape"
 version = "0.1.0"
 edition = "2024"
 authors = ["Davi Moreira Fuzatto <davimoreiraf@gmailcom>"]
+license = "MIT"
+description = "A  tool to search files"
+readme = "README.md"
+homepage = "https://github.com/davimf721/Grape"
+repository = "https://github.com/davimf721/Grape"
+keywords = ["cli", "search", "demo"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 anyhow = "1.0.97"
