@@ -1,5 +1,5 @@
 [package]
-name = "gape"
+name = "grape"
 version = "0.1.0"
 edition = "2024"
 authors = ["Davi Moreira Fuzatto <davimoreiraf@gmailcom>"]
